@@ -2,3 +2,5 @@ node_modules
 .DS_Store
 .vscode/settings.json
 src/js/config.js
+src/js/config.js
+config.js
